@@ -49,14 +49,33 @@ $fontcolor = "#FC8C41"
 	$st = new Student;
 	$st->details();*/
 	
-	/*Strings*/
+	/*Strings
 	
 	$x ="PHP is easy";
 	//echo strlen($x);
 	//echo str_word_count($x);
 	//echo strrev($x);
 	//echo strpos($x,"easy");
-	echo str_replace("PHP","HTML",$x);
+	echo str_replace("PHP","HTML",$x);*/
+	
+	/*constants
+	define("VALUE","I am learning PHP");
+	//echo VALUE;
+	function learnPHP(){
+		//echo VALUE;
+		return VALUE;
+	}
+	//learnPHP();
+	echo learnPHP();*/
+	
+	/*Arithmetic Operators
+	
+	$x = 5;
+	$y = 2;
+	//echo $x+$y;
+	echo $x*$y;*/
+	
+	
 	?>
 </section>
 	<section class="footeroption">
